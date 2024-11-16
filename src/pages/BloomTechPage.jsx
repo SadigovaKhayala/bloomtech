@@ -63,7 +63,7 @@ const BloomTechPage = () => {
         <div className="main-overlay">
           <h1 className="mainContent">
             {language === "AZ"
-              ? "Gələcəyə doğru uğurlu addımla"
+              ? "Gələcəyi inşa edirik."
               : "Step towards a successful future"}
           </h1>
         </div>
